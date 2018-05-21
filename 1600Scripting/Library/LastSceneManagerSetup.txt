@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scripting 5-14 Scene.unity
+  isLoaded: 1
+  isActive: 1
